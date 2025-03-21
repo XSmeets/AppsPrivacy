@@ -39,4 +39,4 @@ The Developer may update this Privacy Policy to reflect changes in practices. An
 For any questions regarding this Privacy Policy, users may contact the Developer at:
 
 Xander Smeets\
-Email: xander@smeets.ee
+Email: [xander@smeets.ee](mailto:xander@smeets.ee)
