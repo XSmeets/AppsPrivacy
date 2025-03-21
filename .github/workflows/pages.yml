@@ -40,6 +40,10 @@ jobs:
         uses: docker://pandoc/core:3.5
         with:
           args: EnergySchema/en.md --output=EnergySchema/en.html
+      - name: Convert privacy policy (EnergySchema NL)
+        uses: docker://pandoc/core:3.5
+        with:
+          args: EnergySchema/nl.md --output=EnergySchema/nl.html
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
