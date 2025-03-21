@@ -22,7 +22,7 @@ Under GDPR, individuals have rights such as access, rectification, and deletion 
 If users believe that their privacy rights have been violated, they have the right to lodge a complaint with their local Data Protection Authority (DPA), or the Dutch Data Protection Authority (Autoriteit Persoonsgegevens). The Dutch Data Protection Authority can be reached through:
 
 > Autoriteit Persoonsgegevens\
-> Website: [https://autoriteitpersoonsgegevens.nl](https://autoriteitpersoonsgegevens.nl)\
+> Website: [https://autoriteitpersoonsgegevens.nl/en](https://autoriteitpersoonsgegevens.nl/en)\
 > Information on submitting complaints: [https://autoriteitpersoonsgegevens.nl/en/submitting-a-tip-off-or-a-complaint-to-the-dutch-dpa](https://autoriteitpersoonsgegevens.nl/en/submitting-a-tip-off-or-a-complaint-to-the-dutch-dpa)\
 > Phone: [(+31) - (0)88 - 1805 250](tel:+31881805250)
 
