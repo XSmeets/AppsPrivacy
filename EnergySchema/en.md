@@ -23,7 +23,7 @@ If users believe that their privacy rights have been violated, they have the rig
 
 > Autoriteit Persoonsgegevens\
 > Website: [https://autoriteitpersoonsgegevens.nl](https://autoriteitpersoonsgegevens.nl)\
-> Information on submitting complaints: https://autoriteitpersoonsgegevens.nl/en/submitting-a-tip-off-or-a-complaint-to-the-dutch-dpa\
+> Information on submitting complaints: [https://autoriteitpersoonsgegevens.nl/en/submitting-a-tip-off-or-a-complaint-to-the-dutch-dpa](https://autoriteitpersoonsgegevens.nl/en/submitting-a-tip-off-or-a-complaint-to-the-dutch-dpa)\
 > Phone: [(+31) - (0)88 - 1805 250](tel:+31881805250)
 
 ## 7. Automated Decision-Making
